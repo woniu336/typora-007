@@ -17,10 +17,12 @@ https://mirror.ghproxy.com/https://github.com/woniu336/typora-007/releases/downl
 
 https://mirror.ghproxy.com/https://github.com/woniu336/typora-007/releases/download/v1.4.7/themes.rar
 
-Preface
+---
+# Typora activation
+## 1.Preface
 I hope to have the conditions to support the genuine work party 🆘🈲️ Please support the genuine version, after all, developing software is also very hard.
 
-Activation Steps
+## 2.Activation Steps
 First, install Typora.v1.4.7.x64.exe, remember the installation path. Replace winmm.dll in the folder containing typora.exe in the installation path, and restart Typora to activate.
 
 Theme folder location: \resources\style\themes;
